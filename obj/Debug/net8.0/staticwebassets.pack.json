@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cristian.barquero\\OneDrive - Accenture\\Documents\\Personal\\CV\\Software Engineer Interview\\C#\\Code Examples\\pizza_project\\ContosoPizzaProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContosoPizzaProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContosoPizzaProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian.barquero\\OneDrive - Accenture\\Documents\\Personal\\CV\\Software Engineer Interview\\C#\\Code Examples\\pizza_project\\ContosoPizzaProject\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian.barquero\\OneDrive - Accenture\\Documents\\Personal\\CV\\Software Engineer Interview\\C#\\Code Examples\\pizza_project\\ContosoPizzaProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian.barquero\\OneDrive - Accenture\\Documents\\Personal\\CV\\Software Engineer Interview\\C#\\Code Examples\\pizza_project\\ContosoPizzaProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cristian.barquero\\OneDrive - Accenture\\Documents\\Personal\\CV\\Software Engineer Interview\\C#\\Code Examples\\pizza_project\\ContosoPizzaProject\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ContosoPizzaProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ContosoPizzaProject.props",
+      "PackagePath": "build\\ContosoPizzaProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ContosoPizzaProject.props",
+      "PackagePath": "buildMultiTargeting\\ContosoPizzaProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ContosoPizzaProject.props",
+      "PackagePath": "buildTransitive\\ContosoPizzaProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
